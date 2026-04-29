@@ -4,7 +4,7 @@ Convert any YouTube video into a structured AI-generated article and downloadabl
 Python Streamlit Groq License
 
 🚀 Live Demo
-👉 Link:- 
+👉 Link:- https://youtube-sumarizer-ai-article-pdf-by-rohit-ganeshe.streamlit.app/
 
 📌 Key Features
 🎥 Extracts transcript from any YouTube video
